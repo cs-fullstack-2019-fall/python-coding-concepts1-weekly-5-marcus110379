@@ -24,7 +24,8 @@ Error Messages:
 #4 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
-Error Messages:
+Error Messages:python3: can't open file 'practice2.py': [Errno 2] No such file or directory
+
 
 
 
